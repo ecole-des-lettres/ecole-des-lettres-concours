@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <link rel="preload" href="https://fonts.googleapis.com/css?family=Merriweather:300,400,400i,700|Open+Sans" as="style">
     <link href="https://fonts.googleapis.com/css?family=Merriweather:300,400,400i,700|Open+Sans" rel="stylesheet">
-    <link rel="stylesheet" href="assets/css/styles.css">
+    <link rel="stylesheet" href="/assets/css/styles.css">
     <!-- SCRIPT GOOGLE ANALYTICS -->
     <script type="text/javascript">
       /*  var _gaq = _gaq || [];
@@ -17,6 +17,8 @@
             var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
         })();*/
     </script>
+    <!-- <link rel="stylesheet" href="/styles.css">
+  <script defer src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script> -->
     <style>
       img {
         float: left;
@@ -243,5 +245,16 @@
         </ul>
       </nav>
     </footer>
+    <!-- <script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script> -->
   </body>
 </html>
