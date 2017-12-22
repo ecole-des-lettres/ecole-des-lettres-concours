@@ -1,211 +1,211 @@
 <?xml version="1.0" encoding="UTF-8"?>
   <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-      <loc>http://localhost:4000/2008/01/01/sommaire_1_2008_2009.html</loc>
+      <loc>http://localhost:4000/2008/sommaire_1_2008_2009.html</loc>
       <lastmod>2008-01-01T00:00:00+01:00</lastmod>
     </url>
     <url>
-      <loc>http://localhost:4000/2008/01/01/sommaire_2_2008_2009.html</loc>
+      <loc>http://localhost:4000/2008/sommaire_2_2008_2009.html</loc>
       <lastmod>2008-01-01T00:00:00+01:00</lastmod>
     </url>
     <url>
-      <loc>http://localhost:4000/2008/01/01/sommaire_3_2008_2009.html</loc>
+      <loc>http://localhost:4000/2008/sommaire_3_2008_2009.html</loc>
       <lastmod>2008-01-01T00:00:00+01:00</lastmod>
     </url>
     <url>
-      <loc>http://localhost:4000/2008/01/01/sommaire_4_2008_2009.html</loc>
+      <loc>http://localhost:4000/2008/sommaire_4_2008_2009.html</loc>
       <lastmod>2008-01-01T00:00:00+01:00</lastmod>
     </url>
     <url>
-      <loc>http://localhost:4000/2008/01/01/sommaire_5_6_2008_2009.html</loc>
+      <loc>http://localhost:4000/2008/sommaire_5_6_2008_2009.html</loc>
       <lastmod>2008-01-01T00:00:00+01:00</lastmod>
     </url>
     <url>
-      <loc>http://localhost:4000/2008/01/01/sommaire_7_8_2008_2009.html</loc>
+      <loc>http://localhost:4000/2008/sommaire_7_8_2008_2009.html</loc>
       <lastmod>2008-01-01T00:00:00+01:00</lastmod>
     </url>
     <url>
-      <loc>http://localhost:4000/2009/01/01/1_2009_2010.html</loc>
+      <loc>http://localhost:4000/2009/1_2009_2010.html</loc>
       <lastmod>2009-01-01T00:00:00+01:00</lastmod>
     </url>
     <url>
-      <loc>http://localhost:4000/2009/01/01/2_2009_2010.html</loc>
+      <loc>http://localhost:4000/2009/2_2009_2010.html</loc>
       <lastmod>2009-01-01T00:00:00+01:00</lastmod>
     </url>
     <url>
-      <loc>http://localhost:4000/2009/01/01/3_2009_2010.html</loc>
+      <loc>http://localhost:4000/2009/3_2009_2010.html</loc>
       <lastmod>2009-01-01T00:00:00+01:00</lastmod>
     </url>
     <url>
-      <loc>http://localhost:4000/2009/01/01/4-5_2009_2010.html</loc>
+      <loc>http://localhost:4000/2009/4-5_2009_2010.html</loc>
       <lastmod>2009-01-01T00:00:00+01:00</lastmod>
     </url>
     <url>
-      <loc>http://localhost:4000/2009/01/01/6_2009_2010.html</loc>
+      <loc>http://localhost:4000/2009/6_2009_2010.html</loc>
       <lastmod>2009-01-01T00:00:00+01:00</lastmod>
     </url>
     <url>
-      <loc>http://localhost:4000/2009/01/01/7_2009_2010.html</loc>
+      <loc>http://localhost:4000/2009/7_2009_2010.html</loc>
       <lastmod>2009-01-01T00:00:00+01:00</lastmod>
     </url>
     <url>
-      <loc>http://localhost:4000/2009/01/01/8_2009_2010.html</loc>
+      <loc>http://localhost:4000/2009/8_2009_2010.html</loc>
       <lastmod>2009-01-01T00:00:00+01:00</lastmod>
     </url>
     <url>
-      <loc>http://localhost:4000/2010/01/01/1_2010_2011.html</loc>
+      <loc>http://localhost:4000/2010/1_2010_2011.html</loc>
       <lastmod>2010-01-01T00:00:00+01:00</lastmod>
     </url>
     <url>
-      <loc>http://localhost:4000/2010/01/01/2_2010_2011.html</loc>
+      <loc>http://localhost:4000/2010/2_2010_2011.html</loc>
       <lastmod>2010-01-01T00:00:00+01:00</lastmod>
     </url>
     <url>
-      <loc>http://localhost:4000/2010/01/01/4_5_2010_2011.html</loc>
+      <loc>http://localhost:4000/2010/4_5_2010_2011.html</loc>
       <lastmod>2010-01-01T00:00:00+01:00</lastmod>
     </url>
     <url>
-      <loc>http://localhost:4000/2010/01/01/6_2010_2011.html</loc>
+      <loc>http://localhost:4000/2010/6_2010_2011.html</loc>
       <lastmod>2010-01-01T00:00:00+01:00</lastmod>
     </url>
     <url>
-      <loc>http://localhost:4000/2010/01/01/7_8_2010_2011.html</loc>
+      <loc>http://localhost:4000/2010/7_8_2010_2011.html</loc>
       <lastmod>2010-01-01T00:00:00+01:00</lastmod>
     </url>
     <url>
-      <loc>http://localhost:4000/2011/01/01/1_2011_2012.html</loc>
+      <loc>http://localhost:4000/2011/1_2011_2012.html</loc>
       <lastmod>2011-01-01T00:00:00+01:00</lastmod>
     </url>
     <url>
-      <loc>http://localhost:4000/2011/01/01/2_2011_2012.html</loc>
+      <loc>http://localhost:4000/2011/2_2011_2012.html</loc>
       <lastmod>2011-01-01T00:00:00+01:00</lastmod>
     </url>
     <url>
-      <loc>http://localhost:4000/2011/01/01/3_2011_2012.html</loc>
+      <loc>http://localhost:4000/2011/3_2011_2012.html</loc>
       <lastmod>2011-01-01T00:00:00+01:00</lastmod>
     </url>
     <url>
-      <loc>http://localhost:4000/2011/01/01/4_2011_2012.html</loc>
+      <loc>http://localhost:4000/2011/4_2011_2012.html</loc>
       <lastmod>2011-01-01T00:00:00+01:00</lastmod>
     </url>
     <url>
-      <loc>http://localhost:4000/2011/01/01/5_2011_2012.html</loc>
+      <loc>http://localhost:4000/2011/5_2011_2012.html</loc>
       <lastmod>2011-01-01T00:00:00+01:00</lastmod>
     </url>
     <url>
-      <loc>http://localhost:4000/2011/01/01/6_2011_2012.html</loc>
+      <loc>http://localhost:4000/2011/6_2011_2012.html</loc>
       <lastmod>2011-01-01T00:00:00+01:00</lastmod>
     </url>
     <url>
-      <loc>http://localhost:4000/2011/01/01/7-8_2011_2012.html</loc>
+      <loc>http://localhost:4000/2011/7-8_2011_2012.html</loc>
       <lastmod>2011-01-01T00:00:00+01:00</lastmod>
     </url>
     <url>
-      <loc>http://localhost:4000/2012/01/01/1_2012_2013.html</loc>
+      <loc>http://localhost:4000/2012/1_2012_2013.html</loc>
       <lastmod>2012-01-01T00:00:00+01:00</lastmod>
     </url>
     <url>
-      <loc>http://localhost:4000/2012/01/01/2_2012_2013.html</loc>
+      <loc>http://localhost:4000/2012/2_2012_2013.html</loc>
       <lastmod>2012-01-01T00:00:00+01:00</lastmod>
     </url>
     <url>
-      <loc>http://localhost:4000/2012/01/01/3_2012_2013.html</loc>
+      <loc>http://localhost:4000/2012/3_2012_2013.html</loc>
       <lastmod>2012-01-01T00:00:00+01:00</lastmod>
     </url>
     <url>
-      <loc>http://localhost:4000/2012/01/01/4_2012_2013.html</loc>
+      <loc>http://localhost:4000/2012/4_2012_2013.html</loc>
       <lastmod>2012-01-01T00:00:00+01:00</lastmod>
     </url>
     <url>
-      <loc>http://localhost:4000/2012/01/01/5_2012_2013.html</loc>
+      <loc>http://localhost:4000/2012/5_2012_2013.html</loc>
       <lastmod>2012-01-01T00:00:00+01:00</lastmod>
     </url>
     <url>
-      <loc>http://localhost:4000/2012/01/01/6-7_2012_2013.html</loc>
+      <loc>http://localhost:4000/2012/6-7_2012_2013.html</loc>
       <lastmod>2012-01-01T00:00:00+01:00</lastmod>
     </url>
     <url>
-      <loc>http://localhost:4000/2013/01/01/1_2013_2014.html</loc>
+      <loc>http://localhost:4000/2013/1_2013_2014.html</loc>
       <lastmod>2013-01-01T00:00:00+01:00</lastmod>
     </url>
     <url>
-      <loc>http://localhost:4000/2013/01/01/2_2013_2014.html</loc>
+      <loc>http://localhost:4000/2013/2_2013_2014.html</loc>
       <lastmod>2013-01-01T00:00:00+01:00</lastmod>
     </url>
     <url>
-      <loc>http://localhost:4000/2013/01/01/3_2013_2014.html</loc>
+      <loc>http://localhost:4000/2013/3_2013_2014.html</loc>
       <lastmod>2013-01-01T00:00:00+01:00</lastmod>
     </url>
     <url>
-      <loc>http://localhost:4000/2013/01/01/4_2013_2014.html</loc>
+      <loc>http://localhost:4000/2013/4_2013_2014.html</loc>
       <lastmod>2013-01-01T00:00:00+01:00</lastmod>
     </url>
     <url>
-      <loc>http://localhost:4000/2013/01/01/5_2013_2014.html</loc>
+      <loc>http://localhost:4000/2013/5_2013_2014.html</loc>
       <lastmod>2013-01-01T00:00:00+01:00</lastmod>
     </url>
     <url>
-      <loc>http://localhost:4000/2014/01/01/1_2014_2015.html</loc>
+      <loc>http://localhost:4000/2014/1_2014_2015.html</loc>
       <lastmod>2014-01-01T00:00:00+01:00</lastmod>
     </url>
     <url>
-      <loc>http://localhost:4000/2014/01/01/2_2014_2015.html</loc>
+      <loc>http://localhost:4000/2014/2_2014_2015.html</loc>
       <lastmod>2014-01-01T00:00:00+01:00</lastmod>
     </url>
     <url>
-      <loc>http://localhost:4000/2014/01/01/3_2014_2015.html</loc>
+      <loc>http://localhost:4000/2014/3_2014_2015.html</loc>
       <lastmod>2014-01-01T00:00:00+01:00</lastmod>
     </url>
     <url>
-      <loc>http://localhost:4000/2014/01/01/4_2014_2015.html</loc>
+      <loc>http://localhost:4000/2014/4_2014_2015.html</loc>
       <lastmod>2014-01-01T00:00:00+01:00</lastmod>
     </url>
     <url>
-      <loc>http://localhost:4000/2014/01/01/5_2014_2015.html</loc>
+      <loc>http://localhost:4000/2014/5_2014_2015.html</loc>
       <lastmod>2014-01-01T00:00:00+01:00</lastmod>
     </url>
     <url>
-      <loc>http://localhost:4000/2015/01/01/1_2015_2016.html</loc>
+      <loc>http://localhost:4000/2015/1_2015_2016.html</loc>
       <lastmod>2015-01-01T00:00:00+01:00</lastmod>
     </url>
     <url>
-      <loc>http://localhost:4000/2015/01/01/2_2015_2016.html</loc>
+      <loc>http://localhost:4000/2015/2_2015_2016.html</loc>
       <lastmod>2015-01-01T00:00:00+01:00</lastmod>
     </url>
     <url>
-      <loc>http://localhost:4000/2015/01/01/3_2015_2016.html</loc>
+      <loc>http://localhost:4000/2015/3_2015_2016.html</loc>
       <lastmod>2015-01-01T00:00:00+01:00</lastmod>
     </url>
     <url>
-      <loc>http://localhost:4000/2015/01/01/4_2015_2016.html</loc>
+      <loc>http://localhost:4000/2015/4_2015_2016.html</loc>
       <lastmod>2015-01-01T00:00:00+01:00</lastmod>
     </url>
     <url>
-      <loc>http://localhost:4000/2015/01/01/5_2015_2016.html</loc>
+      <loc>http://localhost:4000/2015/5_2015_2016.html</loc>
       <lastmod>2015-01-01T00:00:00+01:00</lastmod>
     </url>
     <url>
-      <loc>http://localhost:4000/2016/01/01/1_2016_2017.html</loc>
+      <loc>http://localhost:4000/2016/1_2016_2017.html</loc>
       <lastmod>2016-01-01T00:00:00+01:00</lastmod>
     </url>
     <url>
-      <loc>http://localhost:4000/2016/01/01/2_2016_2017.html</loc>
+      <loc>http://localhost:4000/2016/2_2016_2017.html</loc>
       <lastmod>2016-01-01T00:00:00+01:00</lastmod>
     </url>
     <url>
-      <loc>http://localhost:4000/2016/01/01/3_2016_2017.html</loc>
+      <loc>http://localhost:4000/2016/3_2016_2017.html</loc>
       <lastmod>2016-01-01T00:00:00+01:00</lastmod>
     </url>
     <url>
-      <loc>http://localhost:4000/2016/01/01/4_2016_2017.html</loc>
+      <loc>http://localhost:4000/2016/4_2016_2017.html</loc>
       <lastmod>2016-01-01T00:00:00+01:00</lastmod>
     </url>
     <url>
-      <loc>http://localhost:4000/2017/01/01/1_2017_2018.html</loc>
+      <loc>http://localhost:4000/2017/1_2017_2018.html</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     <url>
-      <loc>http://localhost:4000/2017/01/01/2_2017_2018.html</loc>
+      <loc>http://localhost:4000/2017/2_2017_2018.html</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     <url>
